@@ -85,5 +85,16 @@ Feel free to follow me through my journey as I learn new techniques and post the
 ![Trello](https://img.shields.io/badge/-Trello-00599C?style=flat&logo=trello)
 ![Slack](https://img.shields.io/badge/-Slack-00599C?style=flat&logo=slack)
 
+<br>
 </div>
 
+<div align="center">
+
+<img src = "https://github-readme-stats.vercel.app/api?username=rodrigowithers&count_private=true&include_all_commits=true&show_icons=true&theme=omni&line_height=24">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigowithers&count_private=true&theme=omni&layout=compact">
+
+</div>
+
+<br>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigowithers.rodrigowithers)
