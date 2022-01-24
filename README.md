@@ -81,6 +81,9 @@ Feel free to follow me through my journey as I learn new techniques and post the
 ![Git](https://img.shields.io/badge/-Git-00599C?style=flat&logo=git)
 ![GitLFS](https://img.shields.io/badge/-GitLFS-00599C?style=flat&logo=gitlfs)
 ![GitLab](https://img.shields.io/badge/-GitLab-00599C?style=flat&logo=gitlab)
+![Jira](https://img.shields.io/badge/-Jira-00599C?style=flat&logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-00599C?style=flat&logo=trello)
+![Slack](https://img.shields.io/badge/-Slack-00599C?style=flat&logo=slack)
 
 </div>
 
