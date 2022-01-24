@@ -97,4 +97,4 @@ Feel free to follow me through my journey as I learn new techniques and post the
 
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigowithers.rodrigowithers)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigowithers.rodrigowithers) *Thank you guys~* 
