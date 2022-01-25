@@ -14,7 +14,7 @@ Feel free to follow me through my journey as I learn new techniques and post the
 
 - 🎮 [Check out my games on Itch!](devorastudios.itch.io)
 - 🔭 Currently making Airborne, a mobile game about throwing yourself at enemies, literally!
-- 🌱 Currently learning Pixel Art and Mobile development!
+- 🌱 Currently learning CI/CD
 - 👯 I’m looking to collaborate on any game project!
 - 🤔 I’m looking for help with Pixel Art!
 - 💬 Ask me about Unity development stuff
