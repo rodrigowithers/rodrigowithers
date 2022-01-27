@@ -12,7 +12,12 @@ I'm a 25 years old game developer, graduated as a Game Development in 2018, and 
 
 Feel free to follow me through my journey as I learn new techniques and post them here, and don't be afraid to ask about stuff, I'm always available to lend a helping hand!
 
-- 🎮 [Check out my games on Itch!](devorastudios.itch.io)
+<div align="center">
+  
+###  🎮 [Check out my games on Itch.io!](devorastudios.itch.io) 🎮
+  
+</div>
+
 - 🔭 Currently making Airborne, a mobile game about throwing yourself at enemies, literally!
 - 🌱 Currently learning CI/CD
 - 👯 I’m looking to collaborate on any game project!
