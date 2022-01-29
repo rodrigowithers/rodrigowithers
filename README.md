@@ -18,7 +18,7 @@ Feel free to follow me through my journey as I learn new techniques and post the
   
 </div>
 
-- 🔭 Currently making Airborne, a mobile game about throwing yourself at enemies, literally!
+- 🔭 Currently making [Airborne, an open source mobile game about throwing yourself at enemies, literally!](https://github.com/rodrigowithers/airborne)
 - 🌱 Currently learning CI/CD
 - 👯 I’m looking to collaborate on any game project!
 - 🤔 I’m looking for help with Pixel Art!
