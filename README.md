@@ -19,7 +19,7 @@ Feel free to follow me through my journey as I learn new techniques and post the
 </div>
 
 - 🔭 Currently making [Airborne, an open source mobile game about throwing yourself at enemies, literally!](https://github.com/rodrigowithers/airborne)
-- 🌱 Currently learning CI/CD
+- 🌱 Currently learning DOTS and ECS!
 - 👯 I’m looking to collaborate on any game project!
 - 🤔 I’m looking for help with Pixel Art!
 - 💬 Ask me about Unity development stuff
@@ -63,7 +63,7 @@ Feel free to follow me through my journey as I learn new techniques and post the
 
 ![Mobile](https://img.shields.io/badge/-Andriod-00599C?style=flat&logo=Android)
 ![PC](https://img.shields.io/badge/-Windows-00599C?style=flat&logo=windows)
-![PC](https://img.shields.io/badge/-WebGL-00599C?style=flat&logo=webgl)
+![WEB](https://img.shields.io/badge/-WebGL-00599C?style=flat&logo=webgl)
 
 </div>
 
@@ -75,7 +75,16 @@ Feel free to follow me through my journey as I learn new techniques and post the
 ![Box2D](https://img.shields.io/badge/-Box2D-00599C?style=flat&logo=icon)
 ![Oculus](https://img.shields.io/badge/-OculusVR-00599C?style=flat&logo=oculus)
 ![FMOD](https://img.shields.io/badge/-FMOD-00599C?style=flat&logo=fmod)
-![FMOD](https://img.shields.io/badge/-GoogleCardboard-00599C?style=flat&logo=googlecardboard)
+![Cardboard](https://img.shields.io/badge/-GoogleCardboard-00599C?style=flat&logo=googlecardboard)
+
+</div>
+
+## 💎 APIs 💎
+
+<div align="center">
+
+![Game CI](https://img.shields.io/badge/-GameCI-00599C?style=flat&logo=icon)
+![Fastlane](https://img.shields.io/badge/-Fastlane-00599C?style=flat&logo=fastlane)
 
 </div>
  
