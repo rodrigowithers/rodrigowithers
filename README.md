@@ -18,7 +18,8 @@ Feel free to follow me through my journey as I learn new techniques and post the
   
 </div>
 
-- 🔭 Currently making [Airborne, an open source mobile game about throwing yourself at enemies, literally!](https://github.com/rodrigowithers/airborne)
+- 🔭 Currently working for [Hoplon](https://www.hoplon.com/site/), making some awesome Hyper Casual Mobile Games!
+- 🔭 Also making [Airborne, an open source mobile game about throwing yourself at enemies, literally!](https://github.com/rodrigowithers/airborne)
 - 🌱 Currently learning DOTS and ECS!
 - 👯 I’m looking to collaborate on any game project!
 - 🤔 I’m looking for help with Pixel Art!
